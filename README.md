@@ -132,3 +132,7 @@ checkpoints/
 experiments/
 third_party/
 ```
+
+## License
+
+This project is licensed under the MIT License.
