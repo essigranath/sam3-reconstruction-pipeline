@@ -1,0 +1,11 @@
+__pycache__/
+.vscode/
+*.pyc
+.env
+
+checkpoints/
+third_party/
+experiments/
+
+scripts/old_tests/
+thesis_data/
